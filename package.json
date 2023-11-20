@@ -28,9 +28,7 @@
     "typescript": "^5.2.2"
   },
   "pnpm": {
-    "overrides": {
-      "@auth/core": "0.18.0"
-    }
+    "overrides": {}
   },
   "prettier": "@acme/prettier-config"
 }
